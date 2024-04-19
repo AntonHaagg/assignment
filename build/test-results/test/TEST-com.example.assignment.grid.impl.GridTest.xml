@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.assignment.grid.impl.GridTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-04-19T09:33:00" hostname="dev-anthaa" time="0.019">
+  <properties/>
+  <testcase name="testSetCell_ValidPosition()" classname="com.example.assignment.grid.impl.GridTest" time="0.011"/>
+  <testcase name="testGetCell_InvalidPosition()" classname="com.example.assignment.grid.impl.GridTest" time="0.001"/>
+  <testcase name="testGetCell_ValidPosition()" classname="com.example.assignment.grid.impl.GridTest" time="0.0"/>
+  <testcase name="testSetCell_InvalidPosition()" classname="com.example.assignment.grid.impl.GridTest" time="0.002"/>
+  <testcase name="testGetCell_VoidPosition()" classname="com.example.assignment.grid.impl.GridTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

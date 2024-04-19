@@ -1,2 +1,0 @@
-# assignment
-Robot assignment backend
